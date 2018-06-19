@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	
+</head>
+<body>
+	<div class="columna1">
+	<div class="inicio">
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel nam magnam natus tempora cumque, aliquam deleniti voluptatibus voluptas. Repellat vel, et itaque commodi iste ab, laudantium voluptas deserunt nobis. Rerum!
+	</div>
+
+	<div class="columna2">
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, odit, dolor! Vero illo dicta et tenetur, eos ex saepe? Laudantium ex repudiandae aspernatur, dignissimos accusamus, repellat fugiat laborum modi voluptatibus.
+	</div>
+
+	</div>
+	
+</body>
+</html>
